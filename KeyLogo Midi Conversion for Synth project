@@ -1,0 +1,21 @@
+Tom Porter- Naspite Labs
+
+KeyLogo Synth_Module Addon V1 Information:
+Working on a KeyLOGO midi converter module for this synth Project... 
+
+The above Synth data was all in hex for the notes... the following below is dec conversion work...
+
+
+
+
+K Synth data:
+
+252,239,225,213,201,189,179,169,159,150,142,134,126,119,113,106,100,94,89,84,79,75,71,67,63,60,56,53,50,47,45,42,39
+
+KeyLOGO data:
+
+ 1400  DATA    c,c#,db,d,d#,eb,e,f,f#,gb,g,g#,ab,a,a#,bb,b
+ 1405  DATA    255,240,240,228,216,216,204,192,180,180,170,160,160,152,144,144,136
+
+
+More data to follow....
